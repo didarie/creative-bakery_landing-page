@@ -4,7 +4,7 @@ The page is a creative bakery website that showcases a variety of baked goods an
 
 ## Demo
 
-[DEMO LINK]()
+[DEMO LINK](https://didarie.github.io/creative-bakery_landing-page/)
 
 ## Design Reference
 
