@@ -1,18 +1,32 @@
-# Creative Bakery landing page
+# Creative Bakery Landing Page
 
-The page is a creative bakery website that showcases a variety of baked goods and services. It features an elegant design with a clean layout, highlighting different categories of products, including cakes, pastries, and cookies. The page provides interactive elements such as hover effects, smooth transitions, and a contact form for customers to inquire about orders or services. Additionally, there are sections for testimonials and a gallery of images displaying the bakery's offerings. The website aims to offer a pleasant browsing experience, promoting the bakery's products and encouraging customer engagement.
+A fully responsive landing page for a fictional bakery, designed and implemented based on a Figma design. The page features modern layouts, smooth animations, and a user-friendly interface optimized for different devices such as desktop, tablet, and mobile.
 
 ## Demo
 
-[DEMO LINK](https://didarie.github.io/creative-bakery_landing-page/)
+🔗 [Live Preview](https://didarie.github.io/creative-bakery_landing-page/)
 
 ## Design Reference
 
-[Figma design](https://www.figma.com/file/dY3izAm0Vspsmra4lQWQIP/Bakerlab-FE-students?node-id=0%3A1)
+🖼 [Figma Mockup](https://www.figma.com/file/dY3izAm0Vspsmra4lQWQIP/Bakerlab-FE-students?node-id=0%3A1)
+
+The design is based on a Figma mockup that provides detailed specifications for the layout, typography, and color scheme. The landing page is optimized for various screen sizes including desktop, tablet, and mobile.
 
 ## Technologies Used
 
-- HTML
-- BEM
-- SCSS
+📌 This project was built using the following technologies:
 
+- **HTML**: For the structure of the landing page
+- **CSS (SCSS)**: For styling the page and organizing styles using BEM methodology
+
+## Features
+
+📌 Key features of the landing page:
+
+- **🔥 Fully responsive design**: The page adapts to all screen sizes, including desktop, tablet, and mobile.
+
+- **🎨 BEM and SCSS**: The project uses the BEM methodology and SCSS for organized, maintainable styles.
+
+- **🏠 Smooth animations**: Various animations make the page feel dynamic and engaging.
+
+- **⚡ Optimized performance**: Images and assets are optimized for faster load times.
