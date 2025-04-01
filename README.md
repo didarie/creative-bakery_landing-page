@@ -17,6 +17,7 @@ The design is based on a Figma mockup that provides detailed specifications for 
 📌 This project was built using the following technologies:
 
 - **HTML**: For the structure of the landing page
+
 - **CSS (SCSS)**: For styling the page and organizing styles using BEM methodology
 
 ## Features
